@@ -1,0 +1,9 @@
+{
+	"name": "ADF-11June2021-git",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0f86ef7e-f8dd-4aed-a044-4cd8eeb74b1c",
+		"tenantId": "8cb7761e-a997-4184-a813-aee7c5ac6f98"
+	}
+}
